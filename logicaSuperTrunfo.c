@@ -46,11 +46,11 @@ printf("Àrea da 1 cidade: %e\n", area);
 printf("PIB da 1 cidade: %e\n", pib);
 printf("Pontos turisticos da 1 cidade: %d\n", pontosturisticos);
 
-printf("Nome da 2 cidade: %s\n", nome);
-printf("População da 2 cidade: %f\n", populacao);
-printf("Àrea da 2 cidade: %e\n", area);
-printf("PIB da 2 cidade: %e\n", pib);
-printf("Pontos turisticos da 2 cidade: %d\n", pontosturisticos);
+printf("Nome da 2 cidade: %s\n", nome2);
+printf("População da 2 cidade: %f\n", populacao2);
+printf("Àrea da 2 cidade: %e\n", area2);
+printf("PIB da 2 cidade: %e\n", pib2);
+printf("Pontos turisticos da 2 cidade: %d\n", pontosturisticos2);
 
 if (populacao > populacao2) {
     printf("%s Ganhou, pois tem a maior populacao", nome);
